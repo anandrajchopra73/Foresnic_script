@@ -4483,8 +4483,7 @@ class ForensicBrowserApp:
 
     def show_about(self):
         about_text = (
-            "Developer:\n  Mr. Ankit Gupta\n  Email: ankitkgup72@gmail.com\n\n"
-            "Guides:\n  Mr. Sandesh Ajgekar\n  Mr. Dhruv Vaidya\n  Mr. Rohit Raina"
+            "Developer:\n  Mr. Anand Raj Chopra\n  Email: anandrajchopra12@gmail.com\n\n"
         )
         messagebox.showinfo("About", about_text)
 
